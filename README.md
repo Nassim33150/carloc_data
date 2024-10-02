@@ -5,7 +5,7 @@ Ce projet vise à prévoir les demandes de réservation de véhicules pour une e
 
 ## Fonctionnalités
 
-- **Prévisions des réservations** : Utilisation de données historiques pour prédire le nombre de réservations futures.
+- **Prévisions des réservations** : Utilisation de données historiques(fictives!!) pour prédire le nombre de réservations futures.
 - **Analyse des données** : Exploration et visualisation des données pour identifier des tendances et des modèles.
 - **Rapports** : Génération de rapports détaillés sur les prévisions et les tendances de location.
 - **Utilisation de données fictives** : Le projet utilise des données générées pour simuler des scénarios réalistes.
